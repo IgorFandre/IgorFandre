@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+![trophy](https://github-profile-trophy.vercel.app/?username=IgorFandre&title=MultiLanguage,Repositories,Commits,Experience,PullRequest,Reviews)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorFandre)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFandre&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=IgorFandre)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorFandre&theme=solarized_dark)

@@ -1,29 +1,33 @@
-### Hi there 👋
+# Konichiwa 👋
+![](https://komarev.com/ghpvc/?username=IgorFandre&color=brightgreen)
 
-<!--
-**IgorFandre/IgorFandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Let me introduce myself:
+```py
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class DataAnalyst:
+
+    def __init__(self):
+        self.name = "Igor Shalygin"
+        self.roles = ["Data Analyst", "3rd year student of MIPT"]
+        self.language_spoken = ["ru_RUSSIA", "en_USA"]
+
+    def say_hi(self):
+        print("Thanks for visit, hope you find some of my work interesting.")
+
+
+me = DataAnalyst()
+me.say_hi()
+```
+
+## 🏆 GitHub Trophies:
+![trophy](https://github-profile-trophy.vercel.app/?username=IgorFandre&title=MultiLanguage,Repositories,Commits,Experience,PullRequest,Reviews)
+
+## 📈 Programming Statistics:
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-![trophy](https://github-profile-trophy.vercel.app/?username=IgorFandre&title=MultiLanguage,Repositories,Commits,Experience,PullRequest,Reviews)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorFandre)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorFandre&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=IgorFandre)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorFandre&theme=solarized_dark)

@@ -16,6 +16,20 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 31 March 2024 - To: 06 July 2024
+
+Total Time: 114 hrs 3 mins
+
+Go            31 hrs 25 mins  >>>>>>>------------------   26.40 %
+Python        31 hrs 20 mins  >>>>>>>------------------   26.33 %
+C             19 hrs 18 mins  >>>>---------------------   16.22 %
+C++           17 hrs 39 mins  >>>>---------------------   14.83 %
+SQL           5 hrs 11 mins   >------------------------   04.36 %
+Other         4 hrs 58 mins   >------------------------   04.18 %
+```
+
 <!--END_SECTION:waka-->
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=IgorFandre&title=MultiLanguage,Repositories,Commits,Experience,PullRequest,Reviews)

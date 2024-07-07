@@ -11,6 +11,9 @@ class DataAnalyst:
 
     def __init__(self):
         self.name = "Igor Shalygin"
+        self.pronouns = "he/him"
+        self.height = "172cm"
+        self.hobbies = ["Gym", "Football", "Anime", "Computer Games"]
         self.roles = ["Data Analyst", "3rd year student of MIPT"]
         self.language_spoken = ["ru_RUSSIA", "en_USA"]
 

@@ -27,21 +27,7 @@ me.say_hi()
 
 ## 📈 Programming Statistics:
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 31 March 2024 - To: 06 July 2024
-
-Total Time: 114 hrs 3 mins
-
-Go            31 hrs 25 mins  >>>>>>>------------------   26.40 %
-Python        31 hrs 20 mins  >>>>>>>------------------   26.33 %
-C             19 hrs 18 mins  >>>>---------------------   16.22 %
-C++           17 hrs 39 mins  >>>>---------------------   14.83 %
-SQL           5 hrs 11 mins   >------------------------   04.36 %
-Other         4 hrs 58 mins   >------------------------   04.18 %
-```
-
-<!--END_SECTION:waka-->
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorFandre&theme=solarized_dark)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

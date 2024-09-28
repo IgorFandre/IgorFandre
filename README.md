@@ -12,7 +12,7 @@ class DataAnalyst:
     def __init__(self):
         self.name = "Igor Shalygin"
         self.roles = ["Data Analyst", "3rd year student of MIPT"]
-        self.language_spoken = ["ru_RUSSIA", "en_USA"]
+        self.language_spoken = ["ru_Russia", "en_USA", "cpp_C++", "py_Python", "go_Golang"]
 
     def say_hi(self):
         print("Thanks for visit, hope you find some of my work interesting.")

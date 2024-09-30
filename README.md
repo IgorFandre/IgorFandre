@@ -32,17 +32,17 @@ me.say_hi()
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 March 2024 - To: 27 September 2024
+From: 31 March 2024 - To: 28 September 2024
 
-Total Time: 128 hrs 50 mins
+Total Time: 130 hrs 4 mins
 
-Python        40 hrs 21 mins  >>>>>>>>-----------------   30.14 %
-Go            31 hrs 25 mins  >>>>>>-------------------   23.46 %
-C             20 hrs 1 min    >>>>---------------------   14.95 %
-C++           19 hrs 7 mins   >>>>---------------------   14.29 %
-Markdown      5 hrs 20 mins   >------------------------   03.98 %
-SQL           5 hrs 11 mins   >------------------------   03.88 %
-Other         5 hrs 4 mins    >------------------------   03.79 %
+Python        40 hrs 21 mins  >>>>>>>------------------   29.86 %
+Go            31 hrs 25 mins  >>>>>>-------------------   23.25 %
+C             20 hrs 1 min    >>>>---------------------   14.81 %
+C++           19 hrs 7 mins   >>>>---------------------   14.16 %
+Markdown      5 hrs 24 mins   >------------------------   04.00 %
+SQL           5 hrs 11 mins   >------------------------   03.84 %
+Other         5 hrs 4 mins    >------------------------   03.75 %
 ```
 
 <!--END_SECTION:waka-->

@@ -32,7 +32,7 @@ me.say_hi()
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 March 2024 - To: 01 December 2024
+From: 31 March 2024 - To: 02 December 2024
 
 Total Time: 179 hrs 58 mins
 

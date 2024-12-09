@@ -6,20 +6,26 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-
-class DataAnalyst:
-
+class UomoSaggio:
     def __init__(self):
         self.name = "Igor Shalygin"
-        self.roles = ["Data Analyst", "3rd year student of MIPT"]
+        self.roles = ["Data Analyst", "ML enjoyer", "3rd year student of MIPT"]
         self.language_spoken = ["ru_Russia", "en_USA", "cpp_C++", "py_Python", "go_Golang"]
+
+    def study(self):
+        print("Crazy tapping the keyboard!")
+        return True
+
+    def work(self):
+        return False
 
     def say_hi(self):
         print("Thanks for visit, hope you find some of my work interesting.")
 
-
-me = DataAnalyst()
+me = UomoSaggio()
 me.say_hi()
+while not me.work()
+    me.study()
 ```
 
 ## 🏆 GitHub Trophies:

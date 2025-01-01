@@ -38,7 +38,7 @@ while not me.work()
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 March 2024 - To: 29 December 2024
+From: 31 March 2024 - To: 30 December 2024
 
 Total Time: 187 hrs 8 mins
 

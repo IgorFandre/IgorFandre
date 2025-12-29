@@ -38,15 +38,15 @@ while not me.work()
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 March 2024 - To: 26 December 2025
+From: 31 March 2024 - To: 27 December 2025
 
-Total Time: 363 hrs 35 mins
+Total Time: 364 hrs 23 mins
 
-Python           185 hrs 2 mins  >>>>>>>>>>>>-------------   49.93 %
-Typst            63 hrs 36 mins  >>>>---------------------   17.16 %
-Go               31 hrs 25 mins  >>-----------------------   08.48 %
-C++              27 hrs 23 mins  >>-----------------------   07.39 %
-C                20 hrs 1 min    >------------------------   05.40 %
+Python           185 hrs 34 mins >>>>>>>>>>>>-------------   49.96 %
+Typst            63 hrs 36 mins  >>>>---------------------   17.13 %
+Go               31 hrs 25 mins  >>-----------------------   08.46 %
+C++              27 hrs 23 mins  >>-----------------------   07.38 %
+C                20 hrs 1 min    >------------------------   05.39 %
 C#               12 hrs 19 mins  >------------------------   03.32 %
 Markdown         7 hrs 5 mins    -------------------------   01.91 %
 Other            7 hrs 2 mins    -------------------------   01.90 %

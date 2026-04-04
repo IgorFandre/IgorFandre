@@ -32,8 +32,8 @@ class UomoSaggio:
 
 me = UomoSaggio()
 me.say_hi()
-while not me.work()
-    me.study()
+while not me.study():
+    me.work() and me.research()
 ```
 
 ## 🏆 GitHub Trophies:

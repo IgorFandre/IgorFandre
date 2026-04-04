@@ -9,14 +9,22 @@
 class UomoSaggio:
     def __init__(self):
         self.name = "Igor Shalygin"
-        self.roles = ["Data Analyst", "ML enjoyer", "4 year student of MIPT"]
-        self.language_spoken = ["ru_Russia", "en_USA", "cpp_C++", "py_Python", "go_Golang"]
+        self.roles = ["Data Scientist", "ML/AI enjoyer", "4 year student of MIPT"]
+        self.language_spoken = ["ru_Russia", "en_USA", "py_Python", "cpp_C++", "go_Golang"]
 
     def study(self):
         print("Crazy tapping the keyboard!")
         return True
 
     def work(self):
+        print("Going to office!")
+        return True
+
+    def research(self):
+        print("Opening arxiv!")
+        return True
+
+    def relax(self):
         return False
 
     def say_hi(self):

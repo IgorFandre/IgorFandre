@@ -46,17 +46,18 @@ while not me.study():
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 March 2024 - To: 19 May 2026
+From: 31 March 2024 - To: 21 May 2026
 
-Total Time: 421 hrs
+Total Time: 424 hrs 54 mins
 
-Python           224 hrs 39 mins       >>>>>>>>>>>>>------------   51.68 %
+Python           228 hrs 6 mins        >>>>>>>>>>>>>------------   52.47 %
 Typst            63 hrs 53 mins        >>>>---------------------   14.70 %
 Go               31 hrs 25 mins        >>-----------------------   07.23 %
 C++              28 hrs 24 mins        >>-----------------------   06.53 %
 C                20 hrs 2 mins         >------------------------   04.61 %
-C#               14 hrs 22 mins        >------------------------   03.31 %
-Other            13 hrs 42 mins        >------------------------   03.16 %
+C#               14 hrs 23 mins        >------------------------   03.31 %
+Markdown         12 hrs 44 mins        >------------------------   02.93 %
+Other            9 hrs 48 mins         >------------------------   02.26 %
 ```
 
 <!--END_SECTION:waka-->

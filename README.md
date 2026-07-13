@@ -46,7 +46,7 @@ while not me.study():
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 March 2024 - To: 10 July 2026
+From: 31 March 2024 - To: 11 July 2026
 
 Total Time: 562 hrs 55 mins
 
